@@ -1,5 +1,5 @@
 context:
-  version: "0.14.0"
+  version: "0.19.0"
 
 package:
   name: torc
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/NatLabRockies/torc/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 67060006b943af7ab3d200099d5ac5521562c2d6187bb265082cdca840907f60
+  sha256: e123166624cdfbb508323ba2b23d7890719b04b5f15c201ba8aa7c928810ced3
 
 build:
   number: 0
